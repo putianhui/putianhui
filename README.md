@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, It's Putianhui <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h1 align="center">self-taught passionate Server Operations Develop Engineer from China 🇨🇳</h1>
+<h1 align="center">A server operation and maintenance development engineer from China🇨🇳</h1>
   
 <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/vector.gif" align="right" width="320">  
 

@@ -1,10 +1,9 @@
 <h1 align="center">Hey there, It's Putianhui <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<p>I'm a self-taught passionate Server Operations Develop Engineer from China 🇨🇳</p>
   
 <img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/vector.gif" align="right" width="320">  
 
 <div align="left">
-  <h3> 🚀 DM me for collab!</h3>
-  <h3> 💬 Ask me about Anything</h3>
   <h3> 📕 Latest Articles 
     <a href="https://www.putianhui.cn" target="_blank">
     <img src="https://img.shields.io/badge/geeksforgeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=fff" width="120" height="22"></a>
@@ -15,7 +14,7 @@
    </h3>
 </div>  
   
-<hr
+<hr>
   
 <details>  
   <summary>⚛️ Frameworks, Languages & Other Tools</summary>
